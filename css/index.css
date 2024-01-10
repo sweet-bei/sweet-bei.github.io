@@ -1,0 +1,56 @@
+.lists {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 22px 14px 10px;
+}
+
+.lists ul li {
+    height: 40px;
+}
+
+.lists ul li a:hover {
+    font-weight: 700;
+}
+
+.message {
+    margin-top: 48px;
+}
+
+.message h2 {
+    height: 55px;
+    font-size: 35px;
+    margin-bottom: 18px;
+}
+
+.message h2 a:hover {
+    color: #0c0c0d;
+}
+
+.message p {
+    margin-bottom: 32px;
+    line-height: 26px;
+}
+
+.message p a{
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    border-bottom: 1px dashed #0c0c0d;
+}
+
+.message p a:hover {
+    border-bottom: 1px dashed #00dd83;
+}
+
+.message p i {
+    display: inline-block;
+    height: 24px;
+    line-height: 24px;
+    border-bottom: 1px dashed #0c0c0d;
+}
+
+.message p i:hover {
+    cursor: pointer;
+    color: #00dd83;
+    border-bottom: 1px dashed #00dd83;
+}

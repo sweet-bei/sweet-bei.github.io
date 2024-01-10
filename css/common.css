@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #0c0c0d;
+    font-family: 'LXGW WenKai Screen',
+    sans-serif;
+}
+
+i {
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+    color: #0c0c0d;
+}
+
+a:hover {
+    color: #00dd83;
+}
+
+ul li {
+    list-style: none;
+}
+
+.w {
+    width: 700px;
+    margin: 0 auto;
+}
+
+/* 导航栏 */
+.nav {
+    height: 60px;
+    border: 1px solid #ccc;
+    margin-top: 32px;
+    border-radius: 10px;
+    padding: 10px 10px;
+}
+
+.nav ul li {
+    float: left;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 87px;
+    background-color: #f9fafb;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.nav ul li:hover .size {
+    font-weight: 700;
+}
+
+.nav ul li:last-child {
+    background: url(../images/晴_border.png) no-repeat center/30px;
+    margin-right: 0;
+    cursor: pointer;
+}
+
+.nav ul li:last-child:hover {
+    background: url(../images/月亮.png) no-repeat center/26px;
+}
+
+.nav .size {
+    font-size: 26px;
+    color: #0c0c0d;
+}
+
+/* 主体部分 */
+.subhead {
+    height: 70px;
+    margin-top: 45px;
+}
+
+.subhead h2 {
+    float: left;
+    height: 100%;
+    line-height: 70px;
+    font-size: 28px;
+    font-weight: normal;
+}
+
+.icon_box {
+    float: right;
+    height: 100%;
+    line-height: 70px;
+}
+
+.subhead .size {
+    font-size: 32px;
+}
+
+.content {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 22px 14px;
+}
+
+.content ul li {
+    height: 40px;
+}
+
+.content ul li a:hover {
+    font-weight: 700;
+}
+
+/* 底部footer */
+.footer {
+    padding-top: 12px;
+    text-align: center;
+}
+
+.footer p {
+    margin-top: 12px;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}

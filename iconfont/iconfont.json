@@ -1,0 +1,72 @@
+{
+  "id": "4265305",
+  "name": "iconfront",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4608981",
+      "name": "电影，视频",
+      "font_class": "dianyingshipin",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "37236083",
+      "name": "note_24",
+      "font_class": "note_24",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "37192361",
+      "name": "晴_border",
+      "font_class": "qing_border",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "37221162",
+      "name": "video_24",
+      "font_class": "video_24",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "32096264",
+      "name": "月亮",
+      "font_class": "yueliang",
+      "unicode": "e6b6",
+      "unicode_decimal": 59062
+    },
+    {
+      "icon_id": "33987000",
+      "name": "个人中心-置灰",
+      "font_class": "gerenzhongxin-zhihui",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "35203556",
+      "name": "学习 (7)",
+      "font_class": "a-xuexi7",
+      "unicode": "eb16",
+      "unicode_decimal": 60182
+    },
+    {
+      "icon_id": "36993236",
+      "name": "plane",
+      "font_class": "plane",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "36993266",
+      "name": "task",
+      "font_class": "task",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    }
+  ]
+}
